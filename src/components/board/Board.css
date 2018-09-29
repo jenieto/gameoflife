@@ -1,0 +1,9 @@
+.board {
+  border-style: solid;
+  border-width: 1px;
+  display: inline-block;
+}
+
+.row {
+  height: 20px;
+}

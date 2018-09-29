@@ -1,0 +1,9 @@
+.cell {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+.active {
+  background-color: grey;
+}
